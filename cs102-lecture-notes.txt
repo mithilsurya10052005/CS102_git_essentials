@@ -4,3 +4,5 @@ git commit -m "" # to stage
 git push origin master # to push changes to main repository
 git status
 GitHub: updated cs102 lecture notes
+
+Today i learned how to use git hub.
