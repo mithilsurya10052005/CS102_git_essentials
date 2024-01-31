@@ -1,0 +1,6 @@
+git clone #clone the repository
+git add # to add file to local repository
+git commit -m "" # to stage
+git push origin master # to push changes to main repository
+git status
+GitHub: updated cs102 lecture notes
